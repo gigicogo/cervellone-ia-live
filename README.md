@@ -2,19 +2,6 @@
 
 Quiz multiplayer per concludere il percorso di sei giornate sull'IA nella Pubblica Amministrazione. La sfida riprende 42 domande originali, sette categorie, classifica individuale e autovalutazione finale.
 
-## Pubblicazione su GitHub Pages
-
-1. Prima completa l'aggiornamento di Cloudflare Worker + D1 con lo ZIP **cervellone-ia-live-cloudflare.zip**.
-2. Crea un repository GitHub (oppure sostituisci i file della precedente versione del Cervellone).
-3. Carica `index.html`, `style.css` e `app.js` **nella radice** del repository, non in una sottocartella.
-4. Apri **Settings → Pages → Build and deployment → Deploy from a branch**, seleziona `main` e `/(root)`, poi **Save**.
-5. Il sito sarà accessibile da `https://TUO-NOME.github.io/NOME-REPOSITORY/`.
-
-Il frontend è **già collegato** all'API:
-`https://cervellone-ia-api.gigi-cogo.workers.dev`
-
-Se il nome del Worker cambia, modifica la prima riga di `app.js` (variabile `API`).
-
 ## In aula remota
 
 - Il formatore apre GitHub Pages e sceglie **Crea una partita**. Il sito genera una stanza di 6 caratteri.
