@@ -1,4 +1,4 @@
-# Il Cervellone IA LIVE — Comune di Genova
+# Il Cervellone IA LIVE — Corso AI per il Comune di Genova
 
 Quiz multiplayer per concludere il percorso di sei giornate sull'IA nella Pubblica Amministrazione. La sfida riprende 42 domande originali, sette categorie, classifica individuale e autovalutazione finale.
 
@@ -38,4 +38,4 @@ Questo è un gioco di ripasso e non una prova certificativa. Le domande e la lor
 - `style.css` — grafica responsive blu, ciano e arancione.
 - `app.js` — logica client e collegamento Cloudflare.
 
-© Materiale didattico · Comune di Genova · Novembre 2026
+© Materiale didattico · Novembre 2026
